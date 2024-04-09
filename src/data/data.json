@@ -1,0 +1,222 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "title": "Guitarra Winner Stratocaster WGS Preta 8678",
+      "short_description": "Clássico modelo ST de guitarra da marca Winner 8678",
+      "long_description": "Clássico modelo ST de guitarra, com corpo de basswood, braço de maple, escala de rosewood, tarraxas blindadas, três captadores single coil cerâmicos, ponte trêmolo, trastes jumbo e escala com 22 casas.",
+      "price": "R$ 759,05",
+      "rating": 5,
+      "images": [
+        "/assets/products/1/1.jpg",
+        "/assets/products/1/2.jpg",
+        "/assets/products/1/3.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Guitarra SX Stratocaster Vintage SST 62 Azul",
+      "short_description": "Guitarra SX Stratocaster STL 62 Vintage series plus com braço em Maple com reforço em Rosewood",
+      "long_description": "Guitarra SX Stratocaster STL 62 Vintage series plus com braço em Maple com reforço em Rosewood, tensor de duas vias, escala em Rosewood, corpo em Basswood, 21 trastes de nickel, tarraxas Die-Cast Cromadas, ponte tradicional cromada e escudo Branco.",
+      "price": "R$ 1.590,00",
+      "rating": 4,
+      "images": [
+        "/assets/products/2/1.jpg",
+        "/assets/products/2/2.jpg",
+        "/assets/products/2/3.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Guitarra Elétrica Ibanez Superstrato GRGM21 Black Night 6 Cordas",
+      "short_description": "Guitarra Ibanez 6 Cordas GRGM21-BKN Black Night com Ponte F106 e Braço Em Maple",
+      "long_description": "Guitarra Ibanez 6 Cordas GRGM21-BKN Black Night com Ponte F106 e Braço Em Maple. A ponte F106 enriquece a sustentação. O ajuste da altura das cordas pode ser feito de forma fácil e independente. Os captadores Ibanez Infinity oferecem um som preciso e firme com excelente dinâmica. Mesmo em configurações pesadas, eles não perdem a clareza tonal. A escala em Jatobá tem uma cor marrom avermelhada que produz uma gama média rica com um final agudo nítido. Garantia de 90 dias.",
+      "price": "R$ 2.190,60",
+      "rating": 4,
+      "images": [
+        "/assets/products/3/1.webp",
+        "/assets/products/3/2.webp",
+        "/assets/products/3/3.webp"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Michael Les Paul GM 730N",
+      "short_description": "Guitarra Michael Les Paul GM 730N CS Cherry Sumburst",
+      "long_description": "Guitarra Michael Les Paul GM 730N CS Cherry Sumburst, corpo em Basswood, braço em Maple Canadense, escala Blackwood, tarraxas Vintage cromadas, marcadores de escala Trapézio, captadores 2 Humbucker Vintage cromados, controles 2 volumes, 1 Tone Master e 1 Tone, chave de 3 posições, ponte Tune-O-Matic cromada, filetes ABS e trastes Extra-Jumbo.",
+      "price": "R$ 1.698,00",
+      "rating": 4,
+      "images": [
+        "/assets/products/4/1.jpg",
+        "/assets/products/4/2.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Sunburst MG-30 Memphis",
+      "short_description": "Guitarra elétrica Sunburst MG-30 Memphis Modelo strato.",
+      "long_description": "Guitarra elétrica Sunburst MG-30 Memphis Modelo strato com 3 captadores single coils. Ponte trêmolo com alavanca. Disponível em 4 cores, com escudo mint green. MG-30 é uma guitarra elétrica da Memphis, utiliza a madeira Basswood na construção do corpo e o braço em maple, nut em plástico, ponte tremolo e tarraxas Diecast. Possui 3 captadores single coils cerâmicos by Memphis. Disponível em quatro cores, com escala escura em tech wood e escudo mint green.",
+      "price": "R$ 654,55",
+      "rating": 4,
+      "images": [
+        "/assets/products/5/1.jpg",
+        "/assets/products/5/2.jpg",
+        "/assets/products/5/3.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Les Paul Michael GM730N",
+      "short_description": "Guitarra Les Paul Michael GM730N Cherry Sunburst com Modelo: Les Paul, Cor: Sunburst e Orientação: Destro",
+      "long_description": "Guitarra Les Paul Michael GM730N Cherry Sunburst com Modelo: Les Paul, Cor: Sunburst e Orientação: Destro, modelo LP, corpo em Basswood, braço em Maple Canadense, escala Blackwood, tensor Dual Action, tarraxas Vintage cromadas, marcadores de escala Trapézio, captadores 2 Humbucker Vintage cromados, controles 2 volumes, 1 Tone Master e 1 Tone, chave de 3 posições, ponte Tune-O-Matic cromada.",
+      "price": "R$ 1.439,90",
+      "rating": 0,
+      "images": [
+        "/assets/products/6/1.webp",
+        "/assets/products/6/2.webp"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "SG Michael GM850N",
+      "short_description": "Guitarra SG Michael GM850N SG Hammer Preta. A guitarra SG Michael Hammer GM850N se destaca pela combinação de timbre ardido e peso sonoro!",
+      "long_description": "A guitarra SG Michael Hammer GM850N se destaca pela combinação de timbre ardido e peso sonoro! É construída com corpo em Basswood e braço em Hard Maple, além de oferecer componentes diferenciados, como os trastes Extra-Jumbo, os captadores Humbucker, as tarraxas blindadas e o tensor Dual-Action. Escolha a Michael Hammer e dê personalidade aos seus riffs e solos! Corpo em Basswood; braço colado em Hard Maple; escala em Blackwood; marcadores de escala tipo trapézio; 2 captadores Humbucker Vintage Cromados; circuitos com 2 volumes e 2 tones; chave de 3 posições; 22 Trastes Extra-Jumbo; tarraxas blindadas cromadas; ponte tune-o-matic cromada.",
+      "price": "R$ 1.999,90",
+      "rating": 0,
+      "images": [
+        "/assets/products/7/1.webp",
+        "/assets/products/7/2.webp",
+        "/assets/products/7/3.webp"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Michael GM750N Dourada",
+      "short_description": "A guitarra LP Michael Strike GM750N GD é um instrumento com belíssimo visual e som imponente!",
+      "long_description": "A guitarra LP Michael Strike GM750N GD é um instrumento com belíssimo visual e som imponente! Oferece corpo Basswood, braço colado em Hard Maple e escala em Blackwood, combinação que valoriza os solos e riffs nos mais diversos estilos musicais. Possui 2 captadores Humbucker Vintage cromados, componentes que deixam o sinal quente, sem ruídos, garantindo pressão aos seus riffs e solos. Possui ainda ponte Tune-O-Matic Stop-Bar, que adiciona ainda mais sustain e facilita a troca de cordas, além de já vir com trastes Extra-Jumbo! Um dos seus destaques é o circuito MX-3, sistema exclusivo criado pelos especialistas da marca, que permite adicionar os timbres dos captadores do braço e ponte, proporcionando outras possibilidades sonoras. A guitarra LP Michael GM750N GD também é bastante confortável. Vem com tensor Dual Action, sistema que regula a curvatura do braço em 2 sentidos permitindo melhor alinhamento da escala. É uma guitarra com belíssimo acabamento! Oferece tarraxas vintage e sua cor dourada é bem bonita, possuindo um brilho intenso que encanta os guitarristas mais exigentes!",
+      "price": "R$ 2.058,56",
+      "rating": 0,
+      "images": [
+        "/assets/products/8/1.png",
+        "/assets/products/8/2.png",
+        "/assets/products/8/3.png"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Guitarra Stratocaster Memphis MG-30",
+      "short_description": "Guitarra Stratocaster Memphis MG-30.",
+      "long_description": "As guitarras produzidas pela Tagima são reconhecidas pelos maiores guitarristas profissionais da atualidade como a melhor marca de guitarras do Brasil. Disponíveis em diversos modelos e cores, as guitarras Memphis by Tagima são dotadas de grande versatilidade, podendo ser utilizadas dentro de vários estilos musicais para estudo, gravação ou apresentação. Conta ainda com boa qualidade de timbre e acabamento superior ao das suas concorrentes nesta faixa de mercado. Tal versatilidade e excelente custo-benefício fazem da Tagima MG-30 uma das guitarras mais indicadas para iniciantes e escolas de música.",
+      "price": "R$ 980,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/9/1.webp",
+        "/assets/products/9/2.webp",
+        "/assets/products/9/3.webp"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Gibson Les Paul Standard",
+      "short_description": "Guitarra Gibson Les Paul Standard Slash Ltd Ed Anaconda Burst",
+      "long_description": "Satisfaça Seu Apetite Para Destruição Gibson e Slash têm o orgulho de apresentar a coleção Slash Gibson Les Paul Standard. Representa guitarras Gibson influentes que Slash usou durante sua carreira, inspirando várias gerações de músicos ao redor do mundo. A coleção Slash de guitarras Gibson pode ser vista ao vivo no palco com Slash hoje. Cada coleção Slash Gibson Les Paul Standard apresenta um tampo de bordo flamejado AAA, um corpo de mogno sólido e toques pessoais de Slash, incluindo um perfil de braço em forma de C, captadores Gibson Custom Burstbucker Alnico II, nomeações de hardware com cores coordenadas, componentes eletrônicos feitos à mão com capacitores laranja e uma capa dura marrom estilo vintage. Exclusivo para a coleção Slash são o desenho da assinatura 'Skully' de Slash na parte de trás do cabeçote, a assinatura de Slash na tampa do truss rod, uma tampa do truss rod em branco na caixa, as novas cordas Ernie Ball do Slash e quatro palhetas Slash Jim Dunlop Tortex®.",
+      "price": "R$ 39.899,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/10/1.jpg",
+        "/assets/products/10/2.jpg",
+        "/assets/products/10/3.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Gibson Explorer",
+      "short_description": "Guitarra Gibson Explorer Antique Natural. Exploração de som Introduzida ao lado do Gibson Flying V em 1958.",
+      "long_description": "Exploração de som Introduzida ao lado do Gibson Flying V em 1958, a Gibson Explorer viajou para onde ninguém havia ido antes e além de todos os designs de guitarra que vieram antes dele. Mais de 60 anos depois, a Gibson Explorer é utilizada por artistas de todos os gêneros, tornando-o um dos verdadeiros clássicos do mundo da guitarra. O acabamento Antique Natural, toda a construção de mogno em decote, o braço em rosewood e o braço fino e atarraxado proporcionam incríveis looks clássicos, som e tocabilidade. Um conjunto especial de captadores Burstbucker 2 (braço) e Burstbucker 3 (ponte) calibrados fornece essa combinação perfeita de volume, tom e potência.",
+      "price": "R$ 16.380,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/13/1.jpg",
+        "/assets/products/13/2.jpg",
+        "/assets/products/13/3.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "SX Vintage SST62",
+      "short_description": "Guitarra SX Vintage SST62 3TS - 3 Tone Sunburst.",
+      "long_description": "As guitarras SX, aclamadas internacionalmente pela qualidade de acabamento, matéria-prima e, principalmente, pela tocabilidade que os instrumentos oferecem. Hoje, as guitarras que levam a marca SX são reconhecidas mundialmente, competindo em pé de igualdade com os maiores fabricantes de todo o mundo. Afinal de contas, a SX provou que um instrumento não precisa custar muito para ser top. Reavalie seu conceito de instrumento. Confira a guitarra SX!",
+      "price": "R$ 1.390,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/14/1.jpg",
+        "/assets/products/14/2.jpg",
+        "/assets/products/14/3.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Fender Signature Series Jim Root",
+      "short_description": "Guitarra Fender Signature Series Jim Root Telecaster 780.",
+      "long_description": "Para o som fundido e pesado do nu-metal, o guitarrista do Slipknot, Jim Root, trabalhou com a Fender para criar sua Telecaster Signature com enorme sonoridade e que complementasse seu estilo pesado de tocar. Captadores humbucking EMG® ativos para um som esmagador, escala com raio de curvatura de 12 (quase reta) e trastes medium jumbo que facilitam os bends, tarraxas com trava que deixam a afinação mais estável, corpo em Mahogany com acabamento acetinado e as ferragens pretas são algumas características dessa Tele® brutal.",
+      "price": "R$ 21.364,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/15/1.jpg",
+        "/assets/products/15/2.jpg",
+        "/assets/products/15/3.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Epiphone Casino Ltd",
+      "short_description": "Guitarra Epiphone Casino Ltd Ed Lefty Vintage Sunburst.",
+      "long_description": "Desde 1961, a lendária Casino tem sido a archtop mais vendida da Epiphone e um verdadeiro padrão no mundo do rock. À época de seu lançamento, a Casino era apenas uma das várias novas archtop de linha fina desenhadas e produzidas pela empresa na nova fábrica de Kalamazoo, no estado do Michigan, dividida com a antiga concorrente e nova parceira, a Gibson. O primeiro guitarrista a adotar a Casino foi Keith Richards dos Rolling Stones que a utilizou para gravar a demo de Satisfaction nos estúdios da Chess Records em Chicago. Pouco depois, John Lennon e George Harrison levaram suas Casinos para a turnê mundial dos Beatles em 1966. Ela vem com captadores Dogear P-90T Classic, corpo em Maple laminado de 5 camadas com cobertura em Basswood.",
+      "price": "R$ 10.685,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/16/1.jpg",
+        "/assets/products/16/2.jpg",
+        "/assets/products/16/3.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Fender Signature Series Chris Shiflett Telecaster 744",
+      "short_description": "Guitarra Fender Signature Series Chris Shiflett Telecaster 744.",
+      "long_description": "Chris Shiflett tem seus pés firmemente plantados em dois mundos, como guitarrista de longa data com as impecáveis credenciais punk/hard rock do Foo Fighters e com um autêntico amor pelo country no seu projeto Chris Shiflett & the Dead Peasants. Sua paixão pela Telecaster e pelo som grande dos captadores humbucking vem junto numa guitarra extraordinária com a sua assinatura. Modelada em sua '72 Tele Deluxe favorita, a Chris Shiflett Telecaster Deluxe tem características exclusivas como os poderosos captadores humbucking 'CS', as clássicas tarraxas blindadas e estampadas com o 'F' do logo Fender, o braço no formato 'C' com o raio da escala de 12 (mais plano do que o raio de 9.5 das guitarras Standard) e os trastes médio jumbo que facilitam os 'bends'.",
+      "price": "R$ 16.169,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/17/1.jpg",
+        "/assets/products/17/2.jpg",
+        "/assets/products/17/3.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Gibson SG Standard",
+      "short_description": "Guitarra Gibson SG Standard HC Heritage Cherry Elegante e cheia de atitude.",
+      "long_description": "Elegante e cheia de atitude, a Gibson SG Standard foi lançada no início dos anos 60 como a atualização da Les Paul Standard. Foi a favorita de guitarristas como Angus Young, Tony Iommi e Robby Krieger, que a utilizaram em alguns dos maiores hinos do rock de todos os tempos. Esta reedição apresenta as características que tornaram a SG uma das guitarras mais desejadas do mundo, incluindo o design 'double cutaway' para fácil acesso aos trastes mais altos, os captadores '490R' e '498T' para timbres clássicos e versáteis, o braço em 'mahogany' com perfil 'Slim Taper' para ação rápida e confortável e o hardware cromado de alta qualidade.",
+      "price": "R$ 19.980,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/19/1.jpg",
+        "/assets/products/19/2.jpg",
+        "/assets/products/19/3.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Tagima TLP-Flamed Cherry Sunburst",
+      "short_description": "Guitarra Tagima TLP-Flamed Cherry Sunburst.",
+      "price": "R$ 1.999,00",
+      "rating": 0,
+      "images": [
+        "/assets/products/20/1.jpg",
+        "/assets/products/20/2.jpg",
+        "/assets/products/20/3.jpg"
+      ]
+    }
+  ]
+}

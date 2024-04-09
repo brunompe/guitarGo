@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+  font-family: "Nunito Light";
+  src: url("/assets/fonts/nunito/Nunito-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nunito Regular";
+  src: url("/assets/fonts/nunito/Nunito-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nunito Medium";
+  src: url("/assets/fonts/nunito/Nunito-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nunito Bold";
+  src: url("/assets/fonts/nunito/Nunito-Bold.ttf") format("truetype");
+}
+
+@tailwind utilities;
+
+.accordion {
+  --bs-accordion-bg: #455a64;
+  --bs-accordion-btn-focus-box-shadow: none;
+  --bs-accordion-active-bg: #455a64;
+  --bs-accordion-active-color: white;
+  --bs-accordion-btn-icon: url("/assets/svg/chevron-compact-down.svg");
+  padding: 20px 5px;
+}
+
+.accordion::after {
+  --bs-accordion-btn-icon: url("/assets/svg/chevron-compact-down.svg");
+}
+
+.accordion-button {
+  color: white;
+  font-weight: bold;
+}
+
+.accordion-item {
+  color: white;
+}
+
+.accordion-button:not(.collapsed) {
+  box-shadow: none;
+  --bs-accordion-btn-icon: url("/assets/svg/chevron-compact-down.svg");
+}
+
+.accordion-button:not(.collapsed)::after {
+  --bs-accordion-btn-icon: url("/assets/svg/chevron-compact-down.svg");
+}
+
+.carousel {
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.carousel-item {
+  width: 300px !important;
+}
+
+svg.star-svg {
+  display: inline;
+}
